@@ -170,5 +170,5 @@ No blanket license is granted for the manuscript text, figures, or research resu
 
 ## Authors
 
-**Ashmit Iyer**, **Sarthak Sharma**  
+**Ashmit Iyer**, **Sarthak Sharma**, **Kushagra Singh**   
 Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar, India
